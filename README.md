@@ -26,8 +26,8 @@ Enter frogs and Slack. frogs are smart people who we like to think form their op
 
 In its current form, frog_ai contains three primary entities:
 
-* A slack bot _(link eventually to repo)_
-* A recurrent neural network _(link eventually to repo)_
+* A slack bot (`app.js`)
+* A [recurrent neural network](https://github.com/frog/frog_ai/tree/master/rnn)
 * A growing, artisanal, frog-selected corpus of writings / canon about design, technology, and the future _(link eventually to dataset)_
 
 The basic workflow for the system is as follows:
