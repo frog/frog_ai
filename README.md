@@ -9,7 +9,7 @@ At frog, we spend a lot of time reading | writing | opining about the future. On
 
 In addition to thinking, we enjoy making things too; both to satisfy our own curiosities and to understand how new tools work, we sometimes make things to ask better questions.
 
-@frog_ai is but another question and an evolving response to our fascination with the impact AI will / is having on our lives.
+@frog_ai is but another question and an evolving response to our fascination with the impact AI is having on our lives.
 
 ### About | Process :arrows_counterclockwise:
 We started with a naïve question: _"With so much chatter going on about data, could we train an AI to talk about AI?"_
@@ -18,7 +18,7 @@ While Markov chains have been a common model for generating text, the availabili
 
 With our tool selected, the next question was, _"where should the training data come from?"_
 
-Enter frogs and Slack. frogs are smart people who we like to think form their opinions wisely. And slack is a tool we use everyday to share influences, with a programmatic interface for sourcing content (i.e. bots) . Ergo:
+Enter frogs and Slack. frogs are smart people who we like to think form their opinions wisely. And slack is a tool we use everyday to share influences, with a programmatic interface (i.e. bots) for sourcing content. Ergo:
 
 ##### slack bot + rnn + frog-selected corpus = frog_ai
 
