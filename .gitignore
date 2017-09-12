@@ -4,3 +4,6 @@ extraction
 *.log
 node_modules
 localtunnel*
+rnn/cv
+rnn/data
+rnn/rnn_data
