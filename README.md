@@ -70,14 +70,6 @@ Here are some samples from our model:
 
 ######
 
-
-### Contribute :bulb:
-
-You can find @frog_ai hanging out in the slack channel [#frog-ai-training](https://frog.slack.com/messages/C6GN4GYGM). Post a link to something you find relevant, and follow the instructions!
-
-Thoughts? Opinions? Hate it? Love it? Let [@karin.giefer](https://frog.slack.com/messages/D6F33Q6P6) or [@jeffrey.ong](https://frog.slack.com/messages/D1KFTNVCY) know if you have feedback or encounter any issues.
-
-
 ### Tools :hammer::wrench:
 
 * [Slack Bots](https://api.slack.com/bot-users) for a conversational interface to submit training data
